@@ -1,4 +1,6 @@
-## Hi there 👋
+ <img src="https://media.tenor.com/DpbjXJnHCXcAAAAi/birb.gif"/> Hi, I'm Dani Rodriguez
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taeos) 
 
 <!--
 **TAEOS/TAEOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
